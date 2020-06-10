@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Hinglish Tensors",
+      "tensorShape": [
+        16,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/master/embd.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/master/meta.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/master/state.txt"
+    }
+  ]
+}
