@@ -3,12 +3,12 @@
     {
       "tensorName": "Hinglish Tensors",
       "tensorShape": [
-        16,
+        1000,
         300
       ],
-      "tensorPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/master/embd.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/master/meta.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/master/state.txt"
+      "tensorPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/1000_words/embd.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/1000_words/meta.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/srinath-zapr/hinglish-tensorflow-embed/1000_words/state.txt"
     }
   ]
 }
